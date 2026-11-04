@@ -1,1 +1,1 @@
-About page
+I'm Peter Nguyen, a UX student at Wilfrid Laurier University in Brantford, Ontario. This page looks back at experiences that took consistent effort and shows how they connect to my goals: a career in design, financial independence, travel and a lifestyle that feels like me.

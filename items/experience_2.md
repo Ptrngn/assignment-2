@@ -1,7 +1,7 @@
-  Service Design / UX at Laurier
+  User Experience at Laurier
 
   What was it that you did?
-I'm studying Service Design and UX at Wilfrid Laurier University, doing user research, service blueprints, diary studies, usability testing and prototypes.
+I'm studying User  at Wilfrid Laurier University, doing user research, service blueprints, diary studies, usability testing and prototypes.
 
   When did you do it?
 From when I started my program until now.
