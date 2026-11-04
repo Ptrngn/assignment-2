@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@600;700&display=swap');
+
+:root {
+  --main-background: #1B2A41;
+  --main-foreground: #F4EFE6;
+  --accent-background: #B5452F;
+  --accent-foreground: #FFFFFF;
+  --page-background: #F4EFE6;
+  --page-foreground: #1B2A41;
+  --heading-font: 'Poppins', sans-serif;
+  --body-font: 'Inter', sans-serif;
+  --item-spacing: 2rem;
+}
+
+body {
+  background-color: var(--page-background);
+  color: var(--page-foreground);
+  font-family: var(--body-font);
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: var(--heading-font);
+}
+
+nav.navbar {
+  background-color: var(--main-background) !important;
+}
+
+nav.navbar .navbar-brand,
+nav.navbar .nav-link {
+  color: var(--main-foreground) !important;
+}
+
+nav.navbar .nav-link:hover {
+  color: var(--accent-background) !important;
+}
+
+header h1 {
+  padding: 1.5rem 2rem;
+}
+
+main section {
+  margin: 0 2rem var(--item-spacing);
+  padding: var(--item-spacing);
+  background-color: #FFFFFF;
+  border-radius: 8px;
+}
+
+button, .btn {
+  background-color: var(--accent-background);
+  color: var(--accent-foreground);
+  border: none;
+}
+
+footer {
+  background-color: var(--main-background);
+  color: var(--main-foreground);
+  padding: 1.5rem 2rem;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
